@@ -26,4 +26,4 @@ Assignment #4:
 
 ## Setup
 
-click here to see the [output](https://mcdgomez.github.io/introtocomputing/)
+click here to see the [output](https://mcdgomez.github.io/introtocomputing)
